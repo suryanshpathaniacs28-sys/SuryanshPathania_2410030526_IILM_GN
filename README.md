@@ -9,6 +9,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/suryanshpathaniacs28-sys/SuryanshPathania_2410030526_IILM_GN/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/suryanshpathaniacs28-sys/SuryanshPathania_2410030526_IILM_GN/tree/master/0189-rotate-array) |
 ## Two Pointers
 |  |
