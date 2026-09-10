@@ -30,4 +30,12 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/suryanshpathaniacs28-sys/SuryanshPathania_2410030526_IILM_GN/tree/master/0215-kth-largest-element-in-an-array) |
+## Hash Table
+|  |
+| ------- |
+| [0205-isomorphic-strings](https://github.com/suryanshpathaniacs28-sys/SuryanshPathania_2410030526_IILM_GN/tree/master/0205-isomorphic-strings) |
+## String
+|  |
+| ------- |
+| [0205-isomorphic-strings](https://github.com/suryanshpathaniacs28-sys/SuryanshPathania_2410030526_IILM_GN/tree/master/0205-isomorphic-strings) |
 <!---LeetCode Topics End-->
