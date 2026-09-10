@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/suryanshpathaniacs28-sys/SuryanshPathania_2410030526_IILM_GN/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/suryanshpathaniacs28-sys/SuryanshPathania_2410030526_IILM_GN/tree/master/0014-longest-common-prefix) |
 | [0189-rotate-array](https://github.com/suryanshpathaniacs28-sys/SuryanshPathania_2410030526_IILM_GN/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/suryanshpathaniacs28-sys/SuryanshPathania_2410030526_IILM_GN/tree/master/0215-kth-largest-element-in-an-array) |
@@ -36,6 +37,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/suryanshpathaniacs28-sys/SuryanshPathania_2410030526_IILM_GN/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/suryanshpathaniacs28-sys/SuryanshPathania_2410030526_IILM_GN/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0205-isomorphic-strings](https://github.com/suryanshpathaniacs28-sys/SuryanshPathania_2410030526_IILM_GN/tree/master/0205-isomorphic-strings) |
 ## String
